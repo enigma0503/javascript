@@ -1,2 +1,2 @@
 # javascript
-Basic JavaScript projects.
+Basic JavaScript modules.
