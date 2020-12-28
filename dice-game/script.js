@@ -1,5 +1,9 @@
 'use strict';
 
+let msg =
+  '1. Keep rolling the dice to increase your current score.\n2. If you roll 1 then you lose all your current score and the other player gets chance.\n3. Click HOLD to transfer your current score to your total score and give chance to other player.\n4. Score 100 points to WIN.';
+alert(msg);
+
 //storing the elements in variables
 let score0El = document.querySelector('#score--0');
 let score1El = document.querySelector('#score--1');
